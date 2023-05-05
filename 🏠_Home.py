@@ -1,4 +1,5 @@
 import streamlit as st
+import requests
 from utilities import load_css
 from streamlit_lottie import st_lottie
 
