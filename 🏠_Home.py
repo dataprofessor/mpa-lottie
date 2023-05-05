@@ -1,5 +1,6 @@
 import streamlit as st
 from utilities import load_css
+from streamlit_lottie import st_lottie
 
 st.set_page_config(
     page_title="Hello",
